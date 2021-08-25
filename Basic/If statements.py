@@ -4,7 +4,7 @@
 #     print("you are young")
 # elif age > 40:
 #     print("the fire in you is strong")
-# else:
+# else: 
 #     print("you are wise one")
 
 meaty = input("Do you eat meat?(y/n)")
